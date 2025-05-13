@@ -59,7 +59,7 @@ This dashboard uncovers key patterns and trends in sales and profitability acros
 ---
 
 ## 🖼️ Output File
-- `visual.pdf` – Final visual report including:
+- `Task 2 Visual.pdf` – Final visual report including:
   - 6 individual visualizations
   - Storytelling and business insights
   - Full dashboard layout
